@@ -221,7 +221,7 @@ a{
 .footer {
     position: relative;
     height: 50vh;
-    background-image: url(/assets/img/footer-bg.jpg) ;
+    background-image: url(https://preview.colorlib.com/theme/coffee/img/footer-bg.jpg.webp) ;
 }
 .footer img {
     width: 100%;
